@@ -1,4 +1,4 @@
-# Edwiser Bridge 3.x Trigger - User Registered Auto-linker with Moodle 
+# Edwiser Bridge 3.x Extender - User Registered Auto-linker with Moodle
 
 ## Functionality Description:
 
