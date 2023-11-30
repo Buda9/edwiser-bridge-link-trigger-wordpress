@@ -23,12 +23,8 @@ This WordPress plugin facilitates integration between the WordPress platform and
 
 TODO:
 
-[x] Automatic User Registration
-
-[ ] Automatic Moodle Login (needs brighter mind to help me with this)
-
-[x] Webhook Support
-
-[x] Secure Data Exchange
-
-[x] Customizable Settings
+- [x] Automatic User Registration
+- [ ] Automatic Moodle Login (needs brighter mind to help me with this)
+- [x] Webhook Support
+- [x] Secure Data Exchange
+- [x] Customizable Settings
