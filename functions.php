@@ -1,3 +1,4 @@
+<?
 // WordPress User Registration Hook
 function my_custom_user_registration_function($user_id) {
     $user_info = get_userdata($user_id);
